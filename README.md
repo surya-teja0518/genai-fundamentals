@@ -4,7 +4,7 @@ Gen AI engineering fundamentals: one folder of notes and a small runnable exerci
 
 | ID | Module | Status |
 |---|---|---|
-| F1 | How LLMs work: tokens, context, sampling | next |
+| F1 | How LLMs work: tokens, context, sampling | in progress (`lessons/F1-how-llms-work`) |
 | F2 | Claude API basics | in progress (`scripts/01_first_call.py`) |
 | F3 | Prompt engineering | |
 | F4 | Structured outputs | |
